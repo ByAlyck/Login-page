@@ -12,4 +12,4 @@ The login page can be customized according to the specific needs of the system. 
 In summary, a login page made with HTML and CSS is an essential component of an authentication system, allowing users to securely enter their credentials to access restricted areas. HTML is used to create the structure of the login form, while CSS is responsible for styling and making the page visually appealing. Together, HTML and CSS provide a functional and user-friendly login interface.
 [𝗠𝗼𝗿𝗲](https://byalyck.github.io/Login-page/)
 ##
-![2023-05-27](https://github.com/ByAlyck/Login-page/assets/113322342/1eab5c7a-081e-4766-8c48-c44169b78b15)
+![Login Page](https://github.com/ByAlyck/Login-page/assets/113322342/1eab5c7a-081e-4766-8c48-c44169b78b15)
